@@ -1,6 +1,6 @@
 # MillGame
 
-Mill Game i made for a job interview
+Mill Game I made for a job interview.
 
 - Language: C++
 - Tools: VisualStudio2017
